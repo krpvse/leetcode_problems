@@ -76,3 +76,9 @@ python tools/sync.py
 ```
 
 Then review and commit the new files in `problems/`.
+
+### Alternative: sync with an AI agent
+
+Ask an AI coding agent (Claude Code, Cursor, Copilot, etc.) to follow [SYNC.md](SYNC.md).
+It sets up the environment, asks you for the `LEETCODE_SESSION` cookie if `.env` is not filled in,
+runs the sync, updates the solved counters above and reports which problems were added.
