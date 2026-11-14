@@ -5,10 +5,10 @@ that lives in this repository. Browse the solutions in [problems/](problems/).
 
 ### Solved problems
 
-![All](https://img.shields.io/badge/All-0-blue?style=for-the-badge)
+![All](https://img.shields.io/badge/All-66-blue?style=for-the-badge)
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-0-orange)
+![Easy](https://img.shields.io/badge/Easy-48-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-18-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## What's inside
